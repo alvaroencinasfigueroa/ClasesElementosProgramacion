@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=vec
+comment0.target=void\ mostrarLista(int[])
+comment1.params=v
+comment1.target=void\ mostrarListaNombres(java.lang.String[])
+comment2.params=v
+comment2.target=void\ mostrarListaDeNombres(java.lang.String[])
+comment3.params=vec
+comment3.target=void\ mostrarVectorRec(int[])
+comment4.params=vec\ i
+comment4.target=void\ mostrarVectorRec(int[],\ int)
+numComments=5

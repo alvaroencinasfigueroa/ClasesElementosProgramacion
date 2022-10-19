@@ -7,7 +7,7 @@ public class Resta extends OperacionMatematica{
 
     @Override
     public int calcularResultado(){
-        Resta resta = new Resta(operador1,operador2);
+        Resta resta = new Resta(operador1, operador2);
         OperacionMatematica op = resta;
         return calcularResultado(op.getOperador1(), op.getOperador2());
     }

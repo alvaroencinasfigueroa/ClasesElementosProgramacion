@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=vec
+comment0.target=void\ mostrarVec(int[])
+comment1.params=vec\ pos
+comment1.target=void\ mostrarVec(int[],\ int)
+comment2.params=v
+comment2.target=void\ mostrarLista(java.lang.String[])
+comment3.params=vec
+comment3.target=int[]\ llenarLista(int[])
+comment4.params=vec\ c
+comment4.target=int[]\ llenarLista(int[],\ int)
+comment5.params=n
+comment5.target=int\ generarNumeros(int)
+comment6.params=numero
+comment6.target=int[]\ llenarLista(int)
+comment7.params=vec\ c\ numero
+comment7.target=int[]\ llenarLista(int[],\ int,\ int)
+comment8.params=n
+comment8.target=boolean\ esPolidivisible(int)
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numero
+comment0.target=java.util.ArrayList\ listaDeSalida(int)
+comment1.params=n
+comment1.target=boolean\ esPolidivisible(int)
+comment2.params=n\ k
+comment2.target=boolean\ esPolidivisible(int,\ int)
+comment3.params=n
+comment3.target=int\ cantidadDigitos(int)
+numComments=4

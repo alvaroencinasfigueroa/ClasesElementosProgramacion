@@ -1,4 +1,3 @@
-
 public class Suma extends OperacionMatematica{
 
     public Suma(int operador1, int operador2){
@@ -7,7 +6,7 @@ public class Suma extends OperacionMatematica{
 
     @Override
     public int calcularResultado(){
-        Suma suma = new Suma(operador1,operador2);
+        Suma suma = new Suma(operador1, operador2);
         OperacionMatematica op = suma;
         return calcularResultado(op.getOperador1(), op.getOperador2());
     }
@@ -19,7 +18,6 @@ public class Suma extends OperacionMatematica{
 
     @Override
     public void mostrarResultado(){
-        System.out.print("Hola soy la suma:" + " " + "y mi resultado es: " + calcularResultado());
+        System.out.print("\nHola soy la suma:" + " " + "y mi resultado es: " + calcularResultado());
     }
-
 }

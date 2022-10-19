@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=operador1\ operador2
+comment0.target=Suma(int,\ int)
+comment1.params=
+comment1.target=int\ calcularResultado()
+comment2.params=numero1\ numero2
+comment2.target=int\ calcularResultado(int,\ int)
+comment3.params=
+comment3.target=void\ mostrarResultado()
+numComments=4

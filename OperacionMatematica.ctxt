@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=operador1\ operador2
+comment0.target=OperacionMatematica(int,\ int)
+comment1.params=op1
+comment1.target=void\ setOperador1(int)
+comment2.params=
+comment2.target=int\ getOperador1()
+comment3.params=op2
+comment3.target=void\ setOperador2(int)
+comment4.params=
+comment4.target=int\ getOperador2()
+comment5.params=
+comment5.target=void\ mostrarResultado()
+comment6.params=
+comment6.target=int\ calcularResultado()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ serieA(int)
+comment1.params=a\ b
+comment1.target=int\ multiplicacionPorSumasSuc(int,\ int)
+comment2.params=n
+comment2.target=int\ numeroCrear(int)
+comment3.params=n\ m
+comment3.target=int\ crearNumeroPorIzquierda(int,\ int)
+comment4.params=l\ s
+comment4.target=int\ limites(int,\ int)
+numComments=5

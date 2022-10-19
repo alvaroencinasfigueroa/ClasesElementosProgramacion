@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ estrellas(int)
+comment0.text=2.\ (25\ pts.)\ Mirar\ una\ estrella\ en\ su\ plenitud\ es\ hermoso,\ si\ se\ pudiera\ ver\ a\ detalle\ tendriamos\ estrellas\r\n\ \ \ \ estrelladas,\ pues\ bien,\ el\ trabajo\ es\ determinar\ la\ cantidad\ de\ lineas\ rectas\ que\ se\ necesitan\ para\ dibujar\r\n\ \ \ \ una\ estrella\ estrellada\ de\ nivel\ n.\ En\ la\ figura\ 1,\ se\ muestra\ el\ n\u00B4umero\ de\ l\u00B4\u0131neas\ que\ se\ requiere\ para\r\n\ \ \ \ formar\ una\ estrella\ de\ nivel\ 1,\ de\ nivel\ 2\ y\ de\ nivel\ 3.\ Se\ te\ pide\ calcular\ el\ n\u00B4umero\ de\ l\u00B4\u0131neas\ rectas\ que\r\nse\ requieren\ para\ formar\ una\ estrella\ estrellada\ de\ nivel\ n.
+numComments=1
